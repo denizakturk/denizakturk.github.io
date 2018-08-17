@@ -31,12 +31,13 @@ h2 {
 }
 
 footer {
-    border-top: 1px solid #dddddd;
+    border-top: 1px solid #AFAFAF;
     padding: 15px;
+    margin: 0 -15px;
 }
 
 header {
-    border-bottom: 1px solid #dddddd;
+    border-bottom: 1px solid #AFAFAF;
     margin: 0 -15px;
     padding: 15px;
 }
@@ -57,5 +58,7 @@ header {
     margin: 0 -15px !important;
     padding: 15px 0 !important;
     background-color: #f9f9f9;
+    border-top: 5px solid #ededed;
+    border-bottom: 5px solid #ededed;
 }
 
